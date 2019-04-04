@@ -1,30 +1,38 @@
 # react-router
+```
 https://tylermcginnis.com/react-router-url-parameters/
 
 url: `http://localhost:8080/create/table/${this.state.nameTable}`,   
+```
 
-//////////scroller/////////////////////////////////////////
+### scroller
+```
 https://github.com/CassetteRocks/react-infinite-scroller
 
-////////////////redux/////////////////////////////////////////////////////////////
+### redux
 https://appdividend.com/2018/07/18/react-redux-node-mongodb-jwt-authentication/
+```
 
-////////////////////reack curso youtube//////////////////////////////////////////////
-
+###  reack curso youtube
+```
 github.com/vvinhas/react-series
 npm install
 sudo npm install -g webpack
 npm run dev
 lvh.me:8080  ou localhot:8080
+```
 
-//link sobre PropTypes
+###  link sobre PropTypes
+```
 https://reactjs.org/docs/components-and-props.html
 
-/////////////////////////////////////////////////////
+
 react router
 npm install --save react-router
+```
 
-framework////////////
+### framework
+```
 bulma.io
 cdnjs.com
 
@@ -32,4 +40,4 @@ cdnjs.com
 
 https://github.com/ReactTraining/react-router
 https://github.com/reactjs/react-router-tutorial/tree/master/lessons/11-productionish-server
-
+```
